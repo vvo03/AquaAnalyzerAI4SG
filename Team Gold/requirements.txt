@@ -1,5 +1,0 @@
-openai
-pandas
-pymupdf
-streamlit
-requests
