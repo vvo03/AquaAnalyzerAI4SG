@@ -3,14 +3,14 @@
 <p>Aqua Analyzer is a web app that helps residents understand how water affects their daily life, the source of their local water, and what effects it may have on their health.
 
 <h1>What do we have to offer?</h1>
-  We use monthly water quality reports from Valley Water to help us gather information to provide accurate data and information for residents. We also use AI to </p>
-<p>We offer three features to help residents understand and be educated more on water to make more better choices for themself and to understand the effects of what water can do.</p>
+  We used monthly water quality reports from Valley Water to collect information and provide accurate data for residents to understand what happens at the water treatment plants. We also use generative AI to create generated summaries and images for actionable information that residents can use. </p>
+<p>We have three features that focus on educating local residents about our water sources(treatment plants), learn what pH is and why it is important for them, and to understand certain consequences, steps to take, and how pH and minerals may impact their water quality.</p>
 <ol>
   <li>Valley water report summarization - Grabs important data from the report and breaks it into two categories: concerns and recommendations.</li>
   <ul>
     <li>Recommendations can help residents understand where things can be improve from an person that works with the water industry</li>
   </ul>
-  <li>Water pH tool - Helps residents understand the pH scale and the different type of levels and how water is measured.</li>
+  <li>Water pH tool - Helps residents understand the pH scale's levels, how water is measured with examples of differing pH materials.</li>
   <li>Water educator - Teaches residents on health benefits and mineral effects on the body.</li>
 </ol>
 
