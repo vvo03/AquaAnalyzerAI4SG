@@ -1,6 +1,6 @@
 ![water](https://github.com/user-attachments/assets/ecb15a19-b5cf-43f6-9d57-5fb40142f8b8)
 <h1>What is Aqua Analyzer?</h1>
-<p>Aqua Analyzer is a website that helps residents understand how water can affect their daily life and their health. 
+<p>Aqua Analyzer is a web app that helps residents understand how water affects their daily life, the source of their local water, and what effects it may have on their health.
 
 <h1>What do we have to offer?</h1>
   We use monthly water quality reports from Valley Water to help us gather information to provide accurate data and information for residents. We also use AI to </p>
