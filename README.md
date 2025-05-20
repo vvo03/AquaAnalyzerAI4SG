@@ -16,3 +16,5 @@
 
 <h1>Our solution?</h1>
 <p>We decided to create a website that is more interactive than a chatbox because we would want people to engage with the website. We also want to close the gap with people not being informed about water and how water can positively or negatively affect our health.</p>
+
+[![Watch the video](https://img.youtube.com/vi/eC3y3VMIhj4/hqdefault.jpg)](https://www.youtube.com/watch?v=eC3y3VMIhj4)
