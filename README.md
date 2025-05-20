@@ -15,6 +15,6 @@
 </ol>
 
 <h1>Our solution?</h1>
-<p>We decided to create a website that is more interactive than a chatbox because we would want people to engage with the website. We also want to close the gap with people not being informed about water and how water can positively or negatively affect our health.</p>
+<p>We created a webapp to address pain points regarding education about water quality, technical language of public quality reports, and how to take actionable steps regarding local water effects. Our solution provides 3 features that serve as an interactive app for people to receive advice through the use of generative AI.</p>
 
 [![Watch the video](https://img.youtube.com/vi/eC3y3VMIhj4/hqdefault.jpg)](https://www.youtube.com/watch?v=eC3y3VMIhj4)
